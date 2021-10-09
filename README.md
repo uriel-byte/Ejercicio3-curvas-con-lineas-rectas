@@ -8,6 +8,8 @@ Se trabajo con el lenguaje de PYTHON y se uso el editor de codigo Visual Studio 
 
 #Desarrollo
 ![Captura de pantalla (1338) png](https://user-images.githubusercontent.com/71051834/136637122-c0cafbd6-88e6-4460-9db7-e3bf31450e73.jpg)
+![Captura de pantalla (1339) png](https://user-images.githubusercontent.com/71051834/136637361-a3b109d7-f21e-452d-9e1c-030db3de152e.jpg)
+
 ![Captura de pantalla (1339) png](https://user-images.githubusercontent.com/71051834/136637124-29f5fc12-7174-4616-9eee-86588ebbada1.jpg)
 
 
