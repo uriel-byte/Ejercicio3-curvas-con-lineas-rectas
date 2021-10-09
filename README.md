@@ -1,6 +1,8 @@
 # Ejercicio3-curvas-con-lineas-rectas
 El siguiente ejercicio muestra una figura hecha con de la líneas rectas.
-Se trabajo con el lenguaje de PYTHON y se uso el editor de codigo Visual Studio Code.
+Se trabajo con el lenguaje de PYTHON y se uso el editor de codigo Visual Studio Code. 
+Para poder realizar esto se tuvo que intalar la libreria Matplotlib, es una librería de Python especializada en la creación de gráficos en dos dimensiones.
+utilizamos el Método de trazado directo. se sabe que dos puntos trazan una línea recta, el valor de x está al frente y el valor de y está al revés. Lo correspondiente son las coordenadas (xi, yi) de los dos puntos. Se puede ver que esto es a y = x línea recta. c establece el color, ls establece la forma
 
 
 
